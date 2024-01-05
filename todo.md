@@ -1,0 +1,5 @@
+- [ ] Improve plaintext extractor (./lib/get_text.py)
+- [x] Write unittest
+- [ ] Improve performance
+- [ ] lemmatize tokens word menggunakan module Sastrawi
+- [ ] Fix url yang tidak bisa didapatkan artikelnya karena dilindungi cloudfire
